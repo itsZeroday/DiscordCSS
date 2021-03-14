@@ -78,7 +78,7 @@
 --discord-logo: none; /* Set it to "block" if you want it */
 
 }
- 
+ /* ORIGINAL
 .theme-dark {
     --background-tertiary: #101320;
     --background-secondary: #1e2233;
@@ -97,6 +97,26 @@
     --scrollbar-auto-thumb: #121722;
     --scrollbar-auto-track: #191f2e;
     --scrollbar-thin-thumb: #141925;
+}*/ 
+/* TESTING */
+.theme-dark {
+    --background-tertiary: #fff;
+    --background-secondary: #fff;
+    --background-secondary-alt: #fff;
+    --background-primary: #fff;
+    --background-mobile-primary: #fff;
+    --channeltextarea-background: #fff;
+    --background-accent: #fff;
+    --background-modifier-hover: #fff;
+    --background-modifier-active: #fff;
+    --background-modifier-selected: #fff;
+    --deprecated-card-bg: #fff;
+    --background-floating: #fff;
+    --deprecated-quickswitcher-input-background:#fff;
+    --elevation-low: none;
+    --scrollbar-auto-thumb: #fff;
+    --scrollbar-auto-track: #fff;
+    --scrollbar-thin-thumb: #fff;
 }
  
 .theme-light { /* I don't support light theme it's just for the "Create a server" popup */
