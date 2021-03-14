@@ -32,13 +32,13 @@
 /* -- Others settings -- */
 
 /* Mention color */
---mention-color: #f04747;
+--mention-color: #4796f0;
 --unread-color: #7289da;
 
 /* Mention color in chat */
---mention-color-bar: #fff; /* #C66262; */
---mention-color-background: #62b5c61f; /* #c662621f; */
---mention-color-hover: #61aac226; /* #c6626226; */
+--mention-color-bar: rgb(0, 204, 255); /* #C66262; */
+--mention-color-background: #2ba7c01f; /* #c662621f; */
+--mention-color-hover: #4bb3d626; /* #c6626226; */
 
 /* User settings color (Mute, Deafen and settings) */
 --user-buttons-color: #096dc0;
